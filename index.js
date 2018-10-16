@@ -18,4 +18,6 @@ function divide() {
 
 }
 
-function inc(n)
+function inc(n) {
+  
+}
